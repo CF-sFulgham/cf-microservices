@@ -1,0 +1,18 @@
+{
+    "enableCors": true,
+    "isProd": false,
+    "port": 3000,
+    "mock": true,
+    "loggerConfig": {
+        "version": "1.1",
+        "_PRI_env": "local",
+        "host": "RBS",
+        "_GL_appid": "rbs-mock-data-service"
+    },
+    "appInsightsKey": "NO_KEY",
+    "logging": {
+        "prod": false,
+        "level": "debug",
+        "verboseErrors": false
+    }    
+}
